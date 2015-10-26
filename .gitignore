@@ -1,0 +1,5 @@
+*.pyc
+/app/config.py
+/creatures
+/creatures.ini
+/images
